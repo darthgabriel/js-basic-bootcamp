@@ -1,0 +1,3 @@
+#ignora los zips creados
+*.zip
+*.rar
