@@ -1,0 +1,17 @@
+{
+	"name": "js-basic-bootcamp",
+	"version": "1.0.0",
+	"description": "Este es un curso basico de js con node en open bootcamp",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+    "saludar": "node hola_mundo.js",
+    "start": "node index.js"
+	},
+	"keywords": [
+		"holamundo",
+		"firstproject"
+	],
+	"author": "Jose Paredes",
+	"license": "ISC"
+}
